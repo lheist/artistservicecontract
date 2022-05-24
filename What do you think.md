@@ -12,6 +12,8 @@ coders to create developments of an orginal piece of code and then bring it toge
 
 There is plenty of documentation about this process, as all code nowadays is written using this process. 
 
-You can format files by using markup language. More information here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
+This is a .md file. You can format files by using 'markdown' language. It is a simple text document. More information here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+More info about .md files. https://fileinfo.com/extension/md 
 
 What do you think? 
