@@ -1,4 +1,4 @@
-This is a contract between an artist a and a client. 
+**This is a contract between an artist a and a client. **
 
 Every line in the contract has a number. This is how coders work. We are coding a relationship in support of the artists. 
 
@@ -11,5 +11,7 @@ Furthermore, they can make new 'branches' based on this one, by forking it. Fork
 coders to create developments of an orginal piece of code and then bring it together again eventually.
 
 There is plenty of documentation about this process, as all code nowadays is written using this process. 
+
+You can format files by using markup language. More information here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
 
 What do you think? 
